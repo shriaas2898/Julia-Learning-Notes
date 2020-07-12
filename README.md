@@ -9,3 +9,7 @@ You can see the official documentation of [**Julia**](https://docs.julialang.org
 4. Launch `jupyter-notebook` from the `Julia-Learning-Notes` directory to access the notebooks.
 
 And you are done!
+
+## References
+* [Julia official documentation](https://docs.julialang.org/)
+* [Introduction to Julia-](https://juliaacademy.com/p/intro-to-julia) Julia Academy
