@@ -10,7 +10,7 @@ You can see the official documentation of [**Julia**](https://docs.julialang.org
 4. Launch `jupyter-notebook` from the `Julia-Learning-Notes` directory to access the notebooks.
 
 And you are done! Follow along the topics to try them out yourself.      
-If you find some topic really interesting you can learn more about in [Julia in Depth](Julia%20In%20depth) section.    
+If you find some topic really interesting you can learn more about it in [Julia in Depth](Julia%20In%20depth) section.    
 You can also find some common problems which I encountered [here](Problems%20encountered%20and%20solved.md).
 
 
