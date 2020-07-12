@@ -8,9 +8,9 @@ You can see the official documentation of [**Julia**](https://docs.julialang.org
 3. Download this repository as zip file or clone it using `git clone` by clicking on the green `Clone or Download` button.
 4. Launch `jupyter-notebook` from the `Julia-Learning-Notes` directory to access the notebooks.
 
-You can also find some common problems which I encountered [here](Problems encountered and solved.md)
+You can also find some common problems which I encountered [here](Problems%20encountered%20and%20solved.md)
 And you are done!
 
 ## References
 * [official Julia documentation](https://docs.julialang.org/)
-* [Introduction to Julia-](https://juliaacademy.com/p/intro-to-julia) Julia Academy
+* [Introduction to Julia](https://juliaacademy.com/p/intro-to-julia) -Julia Academy
