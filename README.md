@@ -1,6 +1,6 @@
 <img src="https://julialang.org/images/logo_hires.png" alt="Julia Logo" width="120" height="81"></img> 
 # Julia Learning Notes
-This repository contains my notes and codes which I  am using to learn Julia.
+This repository contains notes/tutorials for getting started with Julia.
 
 You can see the official documentation of [**Julia**](https://docs.julialang.org).
 ## How to use this repository
